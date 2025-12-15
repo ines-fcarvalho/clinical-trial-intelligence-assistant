@@ -1,1 +1,0 @@
-# clinical-trial-intelligence-assistant
